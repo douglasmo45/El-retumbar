@@ -14,13 +14,13 @@ namespace Example01
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {addNumbers(a,b)} ");
+            Console.WriteLine($"Adding {a} - {b} equals {addNumbers(a,b)} ");//se modifico el signo suma por la resta
 
         }
         
         public static int addNumbers(int a, int b)
        {
-           return a+b;
+           return a-b;//se modifico el signo suma por la resta
        }
     }
 }
