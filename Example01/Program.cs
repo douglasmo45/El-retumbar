@@ -15,12 +15,11 @@ namespace Example01
             b = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine($"Adding {a} * {b} equals {addNumbers(a,b)} ");//se modifico el signo resta por la multiplicacion 
-
         }
         
         public static int addNumbers(int a, int b)
        {
-           return a*b;//se modifico el signo resta por la multiplicacion 
+           return a*b; //se modifico el signo resta por la multiplicacion 
        }
     }
 }
