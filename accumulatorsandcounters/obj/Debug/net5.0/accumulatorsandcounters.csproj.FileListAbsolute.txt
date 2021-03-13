@@ -1,0 +1,16 @@
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\bin\Debug\net5.0\accumulatorsandcounters.exe
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\bin\Debug\net5.0\accumulatorsandcounters.deps.json
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\bin\Debug\net5.0\accumulatorsandcounters.runtimeconfig.json
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\bin\Debug\net5.0\accumulatorsandcounters.runtimeconfig.dev.json
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\bin\Debug\net5.0\accumulatorsandcounters.dll
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\bin\Debug\net5.0\ref\accumulatorsandcounters.dll
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\bin\Debug\net5.0\accumulatorsandcounters.pdb
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.csprojAssemblyReference.cache
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.AssemblyInfo.cs
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.dll
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\ref\accumulatorsandcounters.dll
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.pdb
+C:\Users\dougl\Documents\POO01021\accumulatorsandcounters\obj\Debug\net5.0\accumulatorsandcounters.genruntimeconfig.cache
