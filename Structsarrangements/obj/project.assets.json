@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\Documents\\POO01021\\El retumbar012021\\accumulatorsandcounters\\accumulatorsandcounters.csproj",
-      "projectName": "accumulatorsandcounters",
-      "projectPath": "C:\\Users\\dougl\\Documents\\POO01021\\El retumbar012021\\accumulatorsandcounters\\accumulatorsandcounters.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\Documents\\POO01021\\El retumbar012021\\Structsarrangements\\Structsarrangements.csproj",
+      "projectName": "Structsarrangements",
+      "projectPath": "C:\\Users\\dougl\\Documents\\POO01021\\El retumbar012021\\Structsarrangements\\Structsarrangements.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dougl\\Documents\\POO01021\\El retumbar012021\\accumulatorsandcounters\\obj\\",
+      "outputPath": "C:\\Users\\dougl\\Documents\\POO01021\\El retumbar012021\\Structsarrangements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config"
